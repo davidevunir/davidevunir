@@ -7,14 +7,5 @@
 🌱 I’m currently learning reactive programming and some IA integrations.
 
 - Tools:
-![image](https://github.com/user-attachments/assets/a8f33d5b-8a50-4b9e-837e-02331ee6b8ed)
-
-
-
-<!--
-**davidevunir/davidevunir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
--->
+  
+![image](https://github.com/user-attachments/assets/5c2e36a9-a74d-4994-808e-5209b5790625)
